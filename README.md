@@ -12,5 +12,7 @@ This software system is secured with its log in Id and password system. It also 
 Advantages:
 
 1.Better Stock Management: The new system helps us keep track of our vehicle and spare parts inventory more efficiently. This means fewer mistakes and getting what our customers need quickly.
+
 2.Smoother Billing: We've fixed the problems with billing, so now we can create invoices without errors. This makes things much easier for our users.
+
 3.Safe Data: The system makes sure we don't accidentally delete important employee information. This keeps our employee data safe, which is crucial for our business.
