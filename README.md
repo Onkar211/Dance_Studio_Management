@@ -17,7 +17,9 @@ Advantages:
 
 3.Safe Data: The system makes sure we don't accidentally delete important employee information. This keeps our employee data safe, which is crucial for our business.
 
+
 1.Login Page:
+
 ![image](https://github.com/user-attachments/assets/9bc308f8-97fa-4047-a4af-9a845b8cbde6)
 
 
